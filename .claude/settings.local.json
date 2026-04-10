@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:piyush-dixit-portfilo.netlify.app)",
+      "Bash(grep -E \"\\\\.\\(js|jsx|tsx|ts|css|html\\)$\")",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)"
+    ]
+  }
+}

@@ -3,7 +3,7 @@ import './Portfolio.css';
 const education = [
   {
     degree: 'B.Tech in Electronics and Communication',
-    school: 'International Institute of Information Technology',
+    school: 'Indian Institute of Information Technology (IIIT-Bh)',
     location: 'Bhopal, India',
     year: '2019 – 2023',
     extra: 'CGPA: 7.56',

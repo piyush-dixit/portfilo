@@ -6,7 +6,7 @@ const projects = [
     title: 'Bytepe.com',
     description:
       'Built the entire bytepe.com website from scratch with full backend integration in just 2 weeks. Includes NBFC loan journey, KYC verification, payment gateways (HDFC, InstaCreD, Razorpay), and onboarding flows.',
-    tags: ['React.js', 'TypeScript', 'Redux', 'Razorpay', 'Firebase'],
+    tags: ['React.js', 'TypeScript', 'Redux', 'Razorpay', 'Firebase', 'AI Tools', 'Figma','Next.js'],
     github: null,
     live: 'https://bytepe.com',
   },
@@ -14,7 +14,7 @@ const projects = [
     title: 'Bytepe Mobile App',
     description:
       'Cross-platform mobile application for iOS and Android built using React Native from scratch. Features core native functionality, PDP UI, onboarding flows, and payment integrations.',
-    tags: ['React Native', 'iOS', 'Android', 'Redux-Saga', 'TypeScript'],
+    tags: ['React Native', 'iOS', 'Android', 'Redux-Saga', 'TypeScript', 'Razorpay', 'Firebase', 'AI Tools', 'Figma'],
     github: null,
     live: null,
   },

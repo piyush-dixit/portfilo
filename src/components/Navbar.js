@@ -62,7 +62,7 @@ function Navbar() {
             </a>
           ))}
           <a
-            href="https://drive.google.com/file/d/1-0ka43HQKqmZhEzyd7XuKwOjviu36UZ5/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1L9_38LO5m8XaU-Eepz_dm7SmmIQh1k9B/view?usp=drive_link"
             className="nav-resume-btn"
             target="_blank"
             rel="noopener noreferrer"
